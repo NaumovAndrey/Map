@@ -7,5 +7,5 @@ void task2HW();
 int main()
 {
     setlocale(LC_ALL, "rus");
-    task1HW();
+    task2HW();
 }
